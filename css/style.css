@@ -1,0 +1,22 @@
+/*2.Стилизация: кнопка должна быть зеленая,
+ вокруг инпута должна быть красная граница, 
+ размер кнопки и инпута - больше стандартного. Добавить паддинги в инпут.*/
+
+.search {
+  border: 1px solid red;
+  border-radius: 40px;
+  font-size: 15px;
+  padding: 12px 20px;
+  width: 300px;
+  cursor: pointer;
+  outline: none;
+}
+
+.button {
+  background-color: greenyellow;
+  border-radius: 50px;
+  font-size: 15px;
+  padding: 9px 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
